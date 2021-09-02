@@ -1,3 +1,1 @@
-Here is an image
-
-![image](https://github.com/backyardbiomech/docImages/blob/main/DeepLabCut/TaskManagerDetails.png)
+Just a storage area for hosting images linked to from documentation in other repos.
